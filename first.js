@@ -4,8 +4,8 @@ console.log("k xa yrr");
 //variables
 //string
 fullname="tony stark";
-//boolean
-age=24;x
+//integer
+age=24;
 console.log(fullname);
 console.log(age);
  //null value
